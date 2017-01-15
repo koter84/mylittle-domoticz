@@ -33,8 +33,8 @@
 # Configuration :
 # Change your IP and Port here :
 POST_URL = 'http://192.168.32.91/OpenDOM/tracker.php?type=BLE&hostname=PARAM_HOSTNAME&name=PARAM_NAME&status=PARAM_STATUS'
-POST_USER='xxxxxx'
-POST_PASS='xxxxxx'
+POST_USER=''
+POST_PASS=''
 
 #
 # Configure your Beacons in the TAG_DATA table with : [Name,MacAddress,Timeout,0,mode]
