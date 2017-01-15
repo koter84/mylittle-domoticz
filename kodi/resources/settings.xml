@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="30000">
+    <setting label="30001" id="enabled" type="bool" default="true"/>
+    <setting label="30002" id="notifications" type="bool" default="true"/>
+  </category>
+  <category label="30010">
+    <setting label="30011" id="notifyBaseURL" type="text" default="http://192.168.32.91/OpenDOM/tracker.php"/>
+    <setting label="30012" id="notifyBaseUser" type="text" default=""/>
+    <setting label="30013" id="notifyBasePass" type="text" default=""/>
+  </category>
+</settings>
