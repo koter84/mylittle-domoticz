@@ -44,7 +44,7 @@ POST_PASS=''
 # 0 : used by the script (will keep the time of the last broadcast)
 
 TAG_DATA = [
-    ["Pinkie","ce:02:47:09:2f:f9",30,0]
+    ["Pinkie","ce:02:47:09:2f:f9",120,0]
 ]
 
 
